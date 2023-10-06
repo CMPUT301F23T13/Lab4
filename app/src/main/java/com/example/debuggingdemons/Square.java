@@ -7,5 +7,6 @@ public class Square extends Shape {
     public Square(int x, int y, int sideLength) {
         super(x,y);
         this.sideLength = sideLength;
+
     }
 }
